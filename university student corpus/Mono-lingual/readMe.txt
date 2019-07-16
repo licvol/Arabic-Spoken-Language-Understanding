@@ -10,3 +10,5 @@ Information Processing, Security and Advanced Communication (p. 50). ACM.
 
 3- Lichouri, M., Djeradi, R., & Djeradi, A. (2018). Combining topic-based model and text categorisation approach for utterance 
 understanding in human-machine dialogue. International Journal of Computational Science and Engineering, 17(1), 109-117.
+
+4- Lichouri, M., Abbas, M., Djeradi, R., & Djeradi, A. An Arabic Multi-Domain Spoken Language Understanding System. ICNLSP 2019.
