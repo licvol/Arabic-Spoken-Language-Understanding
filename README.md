@@ -1,7 +1,7 @@
 # Arabic-Spoken-Language-Understanding
 An Arabic Spoken Language Understanding System and Corpora
 
-Papers:
+# Papers:
 1- Lichouri, M., Djeradi, A., & Djeradi, R. Vers un Système de Compréhension d’Énoncé en Communication Homme-Machine Multi-Applications: Approche Conceptuelle.
 
 2- Lichouri, M., Djeradi, A., & Djeradi, R. (2015). Une approche Statistico-Linguistique pour l’extraction de concepts sémantiques: Une première étape vers un système générique de dialogue Homme-Machine. Personal Communication.
